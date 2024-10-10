@@ -38,3 +38,6 @@ div p{
 .custom-font{
     font-family: 'Times New Roman', Times, serif;
 }
+.heading-3{
+    text-transform: uppercase;
+}
