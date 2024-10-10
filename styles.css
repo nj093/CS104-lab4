@@ -17,4 +17,8 @@ div p{
 }
 .align-para{
     text-align: center;
+
+}
+.anchor-element{
+    text-decoration-line: none;
 }
