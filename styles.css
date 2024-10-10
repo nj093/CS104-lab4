@@ -2,3 +2,10 @@ header{
     background-color: blue;
     color: white;
 }
+.container{
+    background-color: lightgrey;
+    color: black;
+}
+div p{
+    color:red;
+}
