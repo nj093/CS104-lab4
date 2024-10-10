@@ -22,3 +22,6 @@ div p{
 .anchor-element{
     text-decoration-line: none;
 }
+.heading-underline{
+    text-decoration-line: underline;
+}
