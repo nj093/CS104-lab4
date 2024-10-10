@@ -41,3 +41,6 @@ div p{
 .heading-3{
     text-transform: uppercase;
 }
+.capitilize-text{
+    text-transform: capitalize;
+}
