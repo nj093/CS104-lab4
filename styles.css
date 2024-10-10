@@ -25,3 +25,6 @@ div p{
 .heading-underline{
     text-decoration-line: underline;
 }
+.bold-text{
+    font-weight: bold;
+}
